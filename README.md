@@ -1,6 +1,5 @@
-# 💫 About Me:
-DTR system <br>learning cybersecurity <br>learning react<br>adapting Ai 
 
+![My GIF](https://media.tenor.com/2RMlQdkpG1cAAAAM/clapping-anime.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Geopy.69) 
