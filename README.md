@@ -1,5 +1,5 @@
 
-![My GIF](https://tenor.com/jB2rdHPrqnG.gif)
+![My GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd28wem5vdjFqMncxMW9sOWR6eDdidnJzMnhsMjB4c254MDgxd3RlMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Geopy.69) 
