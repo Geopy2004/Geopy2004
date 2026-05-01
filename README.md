@@ -1,5 +1,5 @@
 
-![My GIF](https://media.tenor.com/2RMlQdkpG1cAAAAM/clapping-anime.gif)
+![My GIF](https://tenor.com/jB2rdHPrqnG.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Geopy.69) 
