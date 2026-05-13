@@ -12,4 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=Geopy2004&theme=cobalt&hide_border=false)<br/>
 
 
-
+#Project
+[![Website](https://img.shields.io/badge/Website-Click%20Here-0A66C2?logo=vercel&logoColor=white)]([My Website](https://dtr-system-version2.vercel.app/login?utm_source=chatgpt.com))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?logo=vercel&logoColor=white)]([GeoPortfolio](https://geoportfolio-xi.vercel.app/?utm_source=chatgpt.com))
