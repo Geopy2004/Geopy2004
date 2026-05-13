@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a Developer
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWd0eGl1YnVsamxkN2NoazY3Y2F4ZDBhZWcwd2VkbHk2cWp6YTMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1cka6oS6RShHZDxQo/giphy.gif" width="320" />
 
@@ -14,13 +14,9 @@
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Geopy2004&color=blue&style=flat-square)
-
----
-
-## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.shion.dev/api?username=Geopy2004&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
@@ -32,11 +28,11 @@
 
 ---
 
-## 🚀 Portfolio & Projects
+## 🚀 Featured Projects
 
 <p>
   <a href="https://geoportfolio-xi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
   <a href="https://dtr-system-version2.vercel.app/login">
@@ -46,9 +42,3 @@
 
 ---
 
-## 🛠 Tech Focus
-- Web Development
-- Full Stack Projects
-- UI/UX Design
-- API Integration
--AI Implementation in the Projects
