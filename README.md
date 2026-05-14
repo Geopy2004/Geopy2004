@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Developer
+## IM ATOMIC
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWd0eGl1YnVsamxkN2NoazY3Y2F4ZDBhZWcwd2VkbHk2cWp6YTMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1cka6oS6RShHZDxQo/giphy.gif" width="320" />
 
